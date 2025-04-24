@@ -4,7 +4,7 @@ Actors in Union let you reuse a container and its environment across multiple ta
 
 Run the tutorial in colab or setup to run locally.
 
-<a target="_blank" href="https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/model_monitoring/model_monitoring.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/unionai-oss/Actors-Build-Faster-AI-Pipelines-with-Union/blob/main/faster_ai_pipelines_tutorial.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
